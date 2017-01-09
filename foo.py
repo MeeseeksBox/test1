@@ -1,4 +1,5 @@
 
 
-def foo(a,b):
-    a=1; b=2
+def foo(a, b):
+    a = 1
+    b = 2
