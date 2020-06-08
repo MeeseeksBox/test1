@@ -1,4 +1,10 @@
 users:
+    augustogoulart:
+       can: 
+           - say
+           - tag
+           - untag
+           - close
     steaiou:
         can: 
            - say
